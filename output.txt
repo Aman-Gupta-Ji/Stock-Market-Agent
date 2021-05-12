@@ -1,0 +1,858 @@
+Enter stock_name, window_size, Episode_count
+TTM
+10
+2
+2021-05-13 17:56:18.858788: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2021-05-13 17:56:18.858961: W tensorflow/stream_executor/platform/default/dso_loader.cc:60] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-05-13 17:56:18.858978: W tensorflow/stream_executor/cuda/cuda_driver.cc:326] failed call to cuInit: UNKNOWN ERROR (303)
+2021-05-13 17:56:18.859002: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (asus): /proc/driver/nvidia/version does not exist
+2021-05-13 17:56:18.859186: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-05-13 17:56:18.859587: I tensorflow/compiler/jit/xla_gpu_device.cc:99] Not creating XLA devices, tf_xla_enable_xla_devices not set
+Episode 0/2
+Buy: Rs.29.05
+Sell: Rs.28.77 | Profit: -Rs.0.28
+Buy: Rs.28.77
+Buy: Rs.29.30
+Sell: Rs.28.23 | Profit: -Rs.0.54
+Sell: Rs.28.44 | Profit: -Rs.0.86
+Buy: Rs.29.15
+Buy: Rs.29.82
+Sell: Rs.29.73 | Profit: Rs.0.58
+Buy: Rs.33.49
+Buy: Rs.34.17
+Sell: Rs.34.92 | Profit: Rs.5.10
+Sell: Rs.35.60 | Profit: Rs.2.11
+Sell: Rs.35.18 | Profit: Rs.1.01
+Buy: Rs.35.67
+Buy: Rs.35.85
+Buy: Rs.36.79
+Sell: Rs.33.89 | Profit: -Rs.1.78
+2021-05-13 17:56:18.925836: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+2021-05-13 17:56:18.982920: I tensorflow/core/platform/profile_utils/cpu_utils.cc:112] CPU Frequency: 2199995000 Hz
+Buy: Rs.32.22
+Buy: Rs.33.37
+Sell: Rs.33.66 | Profit: -Rs.2.19
+Buy: Rs.34.67
+Sell: Rs.34.18 | Profit: -Rs.2.61
+Buy: Rs.34.56
+Sell: Rs.35.38 | Profit: Rs.3.16
+Sell: Rs.36.27 | Profit: Rs.2.90
+Buy: Rs.36.32
+Buy: Rs.36.55
+Buy: Rs.36.77
+Buy: Rs.36.82
+Sell: Rs.36.81 | Profit: Rs.2.14
+Sell: Rs.37.34 | Profit: Rs.2.78
+Sell: Rs.37.08 | Profit: Rs.0.76
+Sell: Rs.37.53 | Profit: Rs.0.98
+Sell: Rs.37.63 | Profit: Rs.0.86
+Buy: Rs.37.50
+Sell: Rs.37.83 | Profit: Rs.1.01
+Sell: Rs.37.99 | Profit: Rs.0.49
+Buy: Rs.36.91
+Sell: Rs.39.00 | Profit: Rs.2.09
+Buy: Rs.38.59
+Sell: Rs.38.27 | Profit: -Rs.0.32
+Buy: Rs.38.76
+Buy: Rs.39.83
+Sell: Rs.40.77 | Profit: Rs.2.01
+Sell: Rs.41.24 | Profit: Rs.1.41
+Buy: Rs.42.23
+Sell: Rs.44.24 | Profit: Rs.2.01
+Buy: Rs.44.29
+Buy: Rs.42.17
+Sell: Rs.41.56 | Profit: -Rs.2.73
+Sell: Rs.41.89 | Profit: -Rs.0.28
+Buy: Rs.41.32
+Buy: Rs.41.53
+Buy: Rs.40.99
+Sell: Rs.41.51 | Profit: Rs.0.19
+Sell: Rs.41.73 | Profit: Rs.0.20
+Buy: Rs.39.88
+Sell: Rs.39.98 | Profit: -Rs.1.01
+Sell: Rs.40.59 | Profit: Rs.0.71
+Buy: Rs.39.98
+Buy: Rs.42.09
+Buy: Rs.41.50
+Buy: Rs.42.18
+Sell: Rs.42.07 | Profit: Rs.2.09
+Sell: Rs.41.73 | Profit: -Rs.0.36
+Sell: Rs.41.45 | Profit: -Rs.0.05
+Sell: Rs.40.49 | Profit: -Rs.1.69
+Buy: Rs.41.32
+Sell: Rs.40.83 | Profit: -Rs.0.49
+Buy: Rs.40.45
+Sell: Rs.41.01 | Profit: Rs.0.56
+Buy: Rs.40.61
+Sell: Rs.38.90 | Profit: -Rs.1.71
+Buy: Rs.39.57
+Sell: Rs.39.41 | Profit: -Rs.0.16
+Buy: Rs.37.86
+Sell: Rs.37.81 | Profit: -Rs.0.05
+Buy: Rs.39.10
+Sell: Rs.40.31 | Profit: Rs.1.21
+Buy: Rs.35.02
+Sell: Rs.33.84 | Profit: -Rs.1.18
+Buy: Rs.34.22
+Buy: Rs.33.94
+Sell: Rs.33.97 | Profit: -Rs.0.25
+Buy: Rs.33.51
+Sell: Rs.33.43 | Profit: -Rs.0.51
+Buy: Rs.32.73
+Buy: Rs.32.00
+Buy: Rs.32.20
+Sell: Rs.33.33 | Profit: -Rs.0.18
+Sell: Rs.34.38 | Profit: Rs.1.65
+Sell: Rs.35.04 | Profit: Rs.3.04
+Sell: Rs.34.60 | Profit: Rs.2.40
+Buy: Rs.34.08
+Buy: Rs.34.16
+Sell: Rs.34.59 | Profit: Rs.0.51
+Sell: Rs.34.56 | Profit: Rs.0.40
+Buy: Rs.33.48
+Sell: Rs.34.24 | Profit: Rs.0.76
+Buy: Rs.35.52
+Sell: Rs.36.60 | Profit: Rs.1.08
+Buy: Rs.37.26
+Sell: Rs.38.15 | Profit: Rs.0.89
+Buy: Rs.37.94
+Sell: Rs.38.04 | Profit: Rs.0.10
+Buy: Rs.38.21
+Sell: Rs.38.35 | Profit: Rs.0.14
+Buy: Rs.38.76
+Sell: Rs.38.42 | Profit: -Rs.0.34
+Buy: Rs.40.09
+Sell: Rs.38.80 | Profit: -Rs.1.29
+Buy: Rs.39.58
+Sell: Rs.38.86 | Profit: -Rs.0.72
+Buy: Rs.38.13
+Sell: Rs.38.04 | Profit: -Rs.0.09
+Buy: Rs.33.41
+Buy: Rs.33.05
+Buy: Rs.33.46
+Sell: Rs.34.50 | Profit: Rs.1.09
+Sell: Rs.34.53 | Profit: Rs.1.48
+Sell: Rs.34.39 | Profit: Rs.0.93
+Buy: Rs.35.16
+Sell: Rs.36.11 | Profit: Rs.0.95
+Buy: Rs.36.46
+Buy: Rs.36.70
+Sell: Rs.36.40 | Profit: -Rs.0.06
+Buy: Rs.36.62
+Buy: Rs.36.05
+Sell: Rs.35.41 | Profit: -Rs.1.29
+Buy: Rs.35.82
+Buy: Rs.36.06
+Buy: Rs.35.43
+Buy: Rs.34.19
+Sell: Rs.34.18 | Profit: -Rs.2.44
+Sell: Rs.35.54 | Profit: -Rs.0.51
+Buy: Rs.34.81
+Sell: Rs.33.49 | Profit: -Rs.2.33
+Sell: Rs.33.76 | Profit: -Rs.2.30
+Sell: Rs.33.90 | Profit: -Rs.1.53
+Sell: Rs.34.18 | Profit: -Rs.0.01
+Buy: Rs.33.88
+Buy: Rs.36.56
+Buy: Rs.36.85
+Sell: Rs.37.12 | Profit: Rs.2.31
+Buy: Rs.37.00
+Buy: Rs.35.85
+Sell: Rs.35.60 | Profit: Rs.1.72
+Sell: Rs.35.71 | Profit: -Rs.0.85
+Sell: Rs.35.53 | Profit: -Rs.1.32
+Sell: Rs.35.01 | Profit: -Rs.1.99
+Sell: Rs.35.12 | Profit: -Rs.0.73
+Buy: Rs.35.00
+Buy: Rs.35.44
+Sell: Rs.35.69 | Profit: Rs.0.69
+Buy: Rs.35.61
+Buy: Rs.35.26
+Buy: Rs.34.49
+Buy: Rs.34.60
+Buy: Rs.34.44
+Buy: Rs.34.87
+Buy: Rs.34.46
+Buy: Rs.33.96
+Buy: Rs.31.50
+Buy: Rs.29.40
+Buy: Rs.29.75
+Buy: Rs.29.46
+Sell: Rs.30.05 | Profit: -Rs.5.39
+Buy: Rs.29.44
+Buy: Rs.29.32
+Buy: Rs.29.28
+Buy: Rs.29.93
+Sell: Rs.29.99 | Profit: -Rs.5.62
+Sell: Rs.29.82 | Profit: -Rs.5.44
+Buy: Rs.29.84
+Sell: Rs.29.86 | Profit: -Rs.4.63
+Sell: Rs.30.54 | Profit: -Rs.4.06
+Sell: Rs.30.15 | Profit: -Rs.4.29
+Sell: Rs.29.64 | Profit: -Rs.5.23
+Buy: Rs.30.59
+Buy: Rs.30.48
+Buy: Rs.31.78
+Buy: Rs.31.75
+Sell: Rs.30.68 | Profit: -Rs.3.78
+Buy: Rs.31.27
+Buy: Rs.31.72
+Buy: Rs.31.98
+Sell: Rs.32.21 | Profit: -Rs.1.75
+Buy: Rs.32.27
+Sell: Rs.32.27 | Profit: Rs.0.77
+Sell: Rs.32.11 | Profit: Rs.2.71
+Sell: Rs.32.79 | Profit: Rs.3.04
+Sell: Rs.33.28 | Profit: Rs.3.82
+Sell: Rs.32.82 | Profit: Rs.3.38
+Sell: Rs.32.86 | Profit: Rs.3.54
+Sell: Rs.32.95 | Profit: Rs.3.67
+Buy: Rs.32.75
+Buy: Rs.32.16
+Sell: Rs.32.19 | Profit: Rs.2.26
+Buy: Rs.32.12
+Sell: Rs.32.76 | Profit: Rs.2.92
+Sell: Rs.33.33 | Profit: Rs.2.74
+Sell: Rs.32.76 | Profit: Rs.2.28
+Sell: Rs.32.99 | Profit: Rs.1.21
+Sell: Rs.33.21 | Profit: Rs.1.46
+Sell: Rs.33.82 | Profit: Rs.2.55
+Sell: Rs.35.00 | Profit: Rs.3.28
+Sell: Rs.33.69 | Profit: Rs.1.71
+Sell: Rs.33.06 | Profit: Rs.0.79
+Sell: Rs.32.32 | Profit: -Rs.0.43
+Sell: Rs.31.99 | Profit: -Rs.0.17
+Sell: Rs.31.62 | Profit: -Rs.0.50
+Buy: Rs.31.19
+Sell: Rs.30.77 | Profit: -Rs.0.42
+Buy: Rs.31.09
+Sell: Rs.31.58 | Profit: Rs.0.49
+Buy: Rs.31.24
+Sell: Rs.31.64 | Profit: Rs.0.40
+Buy: Rs.32.32
+Buy: Rs.33.07
+Buy: Rs.34.32
+Buy: Rs.33.93
+Buy: Rs.33.69
+Buy: Rs.33.87
+Buy: Rs.34.05
+Sell: Rs.34.24 | Profit: Rs.1.92
+Sell: Rs.33.75 | Profit: Rs.0.68
+Sell: Rs.34.32 | Profit: Rs.0.00
+Sell: Rs.33.11 | Profit: -Rs.0.82
+Sell: Rs.33.06 | Profit: -Rs.0.63
+Sell: Rs.32.61 | Profit: -Rs.1.26
+Sell: Rs.33.10 | Profit: -Rs.0.95
+Buy: Rs.28.03
+Buy: Rs.28.98
+Buy: Rs.28.38
+Buy: Rs.28.02
+Buy: Rs.27.98
+Buy: Rs.27.97
+Sell: Rs.27.28 | Profit: -Rs.0.75
+Sell: Rs.27.10 | Profit: -Rs.1.88
+Sell: Rs.27.18 | Profit: -Rs.1.20
+Buy: Rs.25.63
+Sell: Rs.25.42 | Profit: -Rs.2.60
+Sell: Rs.25.70 | Profit: -Rs.2.28
+Sell: Rs.27.40 | Profit: -Rs.0.57
+Sell: Rs.27.62 | Profit: Rs.1.99
+Buy: Rs.22.91
+Buy: Rs.23.02
+Buy: Rs.22.32
+Buy: Rs.22.03
+Buy: Rs.22.91
+Buy: Rs.21.31
+Buy: Rs.21.26
+Buy: Rs.21.35
+Sell: Rs.22.16 | Profit: -Rs.0.75
+Sell: Rs.22.33 | Profit: -Rs.0.69
+Buy: Rs.22.60
+Buy: Rs.22.32
+Buy: Rs.22.15
+Buy: Rs.22.65
+Buy: Rs.22.12
+Buy: Rs.22.37
+Buy: Rs.22.19
+Buy: Rs.20.86
+Buy: Rs.20.24
+Buy: Rs.19.60
+Buy: Rs.19.25
+Buy: Rs.19.55
+Buy: Rs.19.66
+Buy: Rs.19.33
+Sell: Rs.20.08 | Profit: -Rs.2.24
+Sell: Rs.19.46 | Profit: -Rs.2.57
+Buy: Rs.19.50
+Buy: Rs.19.21
+Buy: Rs.18.50
+Buy: Rs.18.87
+Buy: Rs.18.49
+Buy: Rs.18.40
+Buy: Rs.18.39
+Sell: Rs.18.59 | Profit: -Rs.4.32
+Buy: Rs.18.20
+Buy: Rs.19.00
+Buy: Rs.18.60
+Buy: Rs.18.27
+Buy: Rs.18.49
+Buy: Rs.17.42
+Buy: Rs.17.43
+Buy: Rs.17.18
+Sell: Rs.17.75 | Profit: -Rs.3.56
+Sell: Rs.18.37 | Profit: -Rs.2.89
+Sell: Rs.19.10 | Profit: -Rs.2.25
+Sell: Rs.19.16 | Profit: -Rs.3.44
+Buy: Rs.18.18
+Buy: Rs.18.35
+Buy: Rs.18.50
+Buy: Rs.18.05
+Buy: Rs.18.55
+Sell: Rs.18.42 | Profit: -Rs.3.90
+Buy: Rs.18.45
+Sell: Rs.18.32 | Profit: -Rs.3.83
+Buy: Rs.18.25
+Buy: Rs.18.04
+Buy: Rs.17.67
+Buy: Rs.17.51
+Buy: Rs.17.82
+Buy: Rs.17.14
+Buy: Rs.16.54
+Buy: Rs.16.47
+Buy: Rs.16.17
+Buy: Rs.15.58
+Buy: Rs.15.36
+Buy: Rs.15.57
+Sell: Rs.11.61 | Profit: -Rs.11.04
+Buy: Rs.13.11
+Buy: Rs.12.12
+Buy: Rs.12.18
+Buy: Rs.12.57
+Buy: Rs.12.56
+Buy: Rs.12.85
+Buy: Rs.12.66
+Sell: Rs.12.51 | Profit: -Rs.9.61
+Buy: Rs.12.47
+Buy: Rs.12.20
+Buy: Rs.12.40
+Buy: Rs.12.09
+Buy: Rs.11.46
+Buy: Rs.11.26
+Buy: Rs.10.67
+Buy: Rs.10.80
+Buy: Rs.11.58
+Buy: Rs.11.53
+Buy: Rs.12.26
+Buy: Rs.11.92
+Buy: Rs.12.96
+Sell: Rs.12.98 | Profit: -Rs.9.39
+Sell: Rs.12.96 | Profit: -Rs.9.23
+Sell: Rs.12.48 | Profit: -Rs.8.38
+Sell: Rs.12.64 | Profit: -Rs.7.60
+Sell: Rs.12.26 | Profit: -Rs.7.34
+Sell: Rs.12.37 | Profit: -Rs.6.88
+Sell: Rs.12.21 | Profit: -Rs.7.34
+Sell: Rs.12.33 | Profit: -Rs.7.33
+Sell: Rs.12.58 | Profit: -Rs.6.75
+Buy: Rs.13.07
+Sell: Rs.12.90 | Profit: -Rs.6.60
+Sell: Rs.11.40 | Profit: -Rs.7.81
+Buy: Rs.11.77
+Sell: Rs.11.80 | Profit: -Rs.6.70
+Buy: Rs.12.39
+Buy: Rs.12.41
+Buy: Rs.12.85
+Buy: Rs.12.37
+Buy: Rs.12.50
+Buy: Rs.13.04
+Buy: Rs.12.91
+Buy: Rs.13.71
+Buy: Rs.13.57
+Buy: Rs.13.30
+Buy: Rs.12.90
+Sell: Rs.13.09 | Profit: -Rs.5.78
+Sell: Rs.13.15 | Profit: -Rs.5.34
+Buy: Rs.13.10
+Buy: Rs.12.89
+Buy: Rs.12.91
+Buy: Rs.13.85
+Buy: Rs.14.41
+Buy: Rs.14.68
+Sell: Rs.15.94 | Profit: -Rs.2.46
+Buy: Rs.16.74
+Buy: Rs.16.48
+Buy: Rs.15.84
+Sell: Rs.15.67 | Profit: -Rs.2.72
+Sell: Rs.15.67 | Profit: -Rs.2.53
+Buy: Rs.15.60
+Buy: Rs.15.40
+Sell: Rs.14.90 | Profit: -Rs.4.10
+Sell: Rs.15.13 | Profit: -Rs.3.47
+Sell: Rs.14.55 | Profit: -Rs.3.72
+Sell: Rs.13.58 | Profit: -Rs.4.91
+Buy: Rs.13.36
+Sell: Rs.13.11 | Profit: -Rs.4.31
+Sell: Rs.12.63 | Profit: -Rs.4.80
+Sell: Rs.12.40 | Profit: -Rs.4.78
+Sell: Rs.12.81 | Profit: -Rs.5.37
+Sell: Rs.12.57 | Profit: -Rs.5.78
+Sell: Rs.12.54 | Profit: -Rs.5.96
+Sell: Rs.12.95 | Profit: -Rs.5.10
+Sell: Rs.12.70 | Profit: -Rs.5.85
+Sell: Rs.12.68 | Profit: -Rs.5.77
+Sell: Rs.12.71 | Profit: -Rs.5.54
+Sell: Rs.12.51 | Profit: -Rs.5.53
+Sell: Rs.12.68 | Profit: -Rs.4.99
+Sell: Rs.12.68 | Profit: -Rs.4.83
+Sell: Rs.12.50 | Profit: -Rs.5.32
+Sell: Rs.12.28 | Profit: -Rs.4.86
+Sell: Rs.12.29 | Profit: -Rs.4.25
+Sell: Rs.11.82 | Profit: -Rs.4.65
+Sell: Rs.12.35 | Profit: -Rs.3.82
+Sell: Rs.12.05 | Profit: -Rs.3.53
+Sell: Rs.11.95 | Profit: -Rs.3.41
+Sell: Rs.11.59 | Profit: -Rs.3.98
+Sell: Rs.11.37 | Profit: -Rs.1.74
+Sell: Rs.11.70 | Profit: -Rs.0.42
+Sell: Rs.11.21 | Profit: -Rs.0.97
+Sell: Rs.11.49 | Profit: -Rs.1.08
+Sell: Rs.11.43 | Profit: -Rs.1.13
+Sell: Rs.11.39 | Profit: -Rs.1.46
+Sell: Rs.11.44 | Profit: -Rs.1.22
+Sell: Rs.11.62 | Profit: -Rs.0.85
+Buy: Rs.11.92
+Buy: Rs.11.68
+Buy: Rs.11.25
+Buy: Rs.11.14
+Buy: Rs.11.34
+Sell: Rs.11.57 | Profit: -Rs.0.63
+Buy: Rs.11.66
+Sell: Rs.12.18 | Profit: -Rs.0.22
+Sell: Rs.12.05 | Profit: -Rs.0.04
+Sell: Rs.11.68 | Profit: Rs.0.22
+Sell: Rs.11.28 | Profit: Rs.0.02
+Buy: Rs.11.21
+Sell: Rs.11.26 | Profit: Rs.0.59
+Sell: Rs.11.01 | Profit: Rs.0.21
+Sell: Rs.10.60 | Profit: -Rs.0.98
+Sell: Rs.10.57 | Profit: -Rs.0.96
+Sell: Rs.9.94 | Profit: -Rs.2.32
+Sell: Rs.9.69 | Profit: -Rs.2.23
+Sell: Rs.9.71 | Profit: -Rs.3.25
+Sell: Rs.9.24 | Profit: -Rs.3.83
+Sell: Rs.9.20 | Profit: -Rs.2.57
+Sell: Rs.8.69 | Profit: -Rs.3.70
+Sell: Rs.8.55 | Profit: -Rs.3.86
+Sell: Rs.8.33 | Profit: -Rs.4.52
+Sell: Rs.8.75 | Profit: -Rs.3.62
+Sell: Rs.8.56 | Profit: -Rs.3.94
+Sell: Rs.8.47 | Profit: -Rs.4.57
+Sell: Rs.8.63 | Profit: -Rs.4.28
+Sell: Rs.8.30 | Profit: -Rs.5.41
+Sell: Rs.8.28 | Profit: -Rs.5.29
+Sell: Rs.8.56 | Profit: -Rs.4.74
+Sell: Rs.8.38 | Profit: -Rs.4.52
+Sell: Rs.8.47 | Profit: -Rs.4.63
+Sell: Rs.7.85 | Profit: -Rs.5.04
+Sell: Rs.7.61 | Profit: -Rs.5.30
+Sell: Rs.7.72 | Profit: -Rs.6.13
+Sell: Rs.8.43 | Profit: -Rs.5.98
+Sell: Rs.8.24 | Profit: -Rs.6.44
+Sell: Rs.8.06 | Profit: -Rs.8.68
+Sell: Rs.8.22 | Profit: -Rs.8.26
+Sell: Rs.7.84 | Profit: -Rs.8.00
+Sell: Rs.7.71 | Profit: -Rs.7.89
+Sell: Rs.8.38 | Profit: -Rs.7.02
+Sell: Rs.8.52 | Profit: -Rs.4.84
+Sell: Rs.8.79 | Profit: -Rs.3.13
+Buy: Rs.8.93
+Buy: Rs.9.49
+Sell: Rs.9.08 | Profit: -Rs.2.60
+Sell: Rs.9.16 | Profit: -Rs.2.09
+Sell: Rs.8.96 | Profit: -Rs.2.18
+Sell: Rs.8.68 | Profit: -Rs.2.66
+Sell: Rs.8.65 | Profit: -Rs.3.01
+Sell: Rs.8.79 | Profit: -Rs.2.42
+Sell: Rs.9.02 | Profit: Rs.0.09
+Sell: Rs.8.78 | Profit: -Rs.0.71
+Buy: Rs.10.61
+Buy: Rs.12.21
+Sell: Rs.11.95 | Profit: Rs.1.34
+Sell: Rs.12.08 | Profit: -Rs.0.13
+Buy: Rs.12.17
+Sell: Rs.12.18 | Profit: Rs.0.01
+Buy: Rs.11.85
+Sell: Rs.11.58 | Profit: -Rs.0.27
+Buy: Rs.12.54
+Buy: Rs.13.11
+Sell: Rs.13.09 | Profit: Rs.0.55
+Sell: Rs.12.13 | Profit: -Rs.0.98
+Buy: Rs.4.84
+Buy: Rs.5.05
+Sell: Rs.4.60 | Profit: -Rs.0.24
+Sell: Rs.4.55 | Profit: -Rs.0.50
+Buy: Rs.5.55
+Buy: Rs.5.66
+Sell: Rs.5.48 | Profit: -Rs.0.07
+Sell: Rs.5.58 | Profit: -Rs.0.08
+Buy: Rs.7.80
+Sell: Rs.7.32 | Profit: -Rs.0.48
+Buy: Rs.7.12
+Buy: Rs.7.14
+Sell: Rs.7.00 | Profit: -Rs.0.12
+Sell: Rs.6.87 | Profit: -Rs.0.27
+Buy: Rs.7.24
+Sell: Rs.7.03 | Profit: -Rs.0.21
+Buy: Rs.7.45
+Sell: Rs.7.54 | Profit: Rs.0.09
+Buy: Rs.7.85
+Sell: Rs.7.92 | Profit: Rs.0.07
+Buy: Rs.8.21
+Sell: Rs.8.10 | Profit: -Rs.0.11
+Buy: Rs.10.00
+Buy: Rs.9.33
+Buy: Rs.8.74
+Sell: Rs.8.65 | Profit: -Rs.1.35
+Buy: Rs.8.98
+Buy: Rs.8.87
+Buy: Rs.9.09
+Buy: Rs.9.07
+Sell: Rs.9.20 | Profit: -Rs.0.13
+Buy: Rs.9.70
+Sell: Rs.9.73 | Profit: Rs.0.99
+Sell: Rs.9.67 | Profit: Rs.0.69
+Sell: Rs.9.58 | Profit: Rs.0.71
+Sell: Rs.9.34 | Profit: Rs.0.25
+Sell: Rs.9.08 | Profit: Rs.0.01
+Sell: Rs.8.92 | Profit: -Rs.0.78
+Buy: Rs.12.64
+Buy: Rs.12.66
+Buy: Rs.12.51
+Sell: Rs.12.52 | Profit: -Rs.0.12
+Sell: Rs.12.45 | Profit: -Rs.0.21
+Sell: Rs.12.38 | Profit: -Rs.0.13
+Buy: Rs.18.45
+Buy: Rs.17.82
+Buy: Rs.18.56
+Sell: Rs.17.81 | Profit: -Rs.0.64
+Sell: Rs.19.52 | Profit: Rs.1.70
+Sell: Rs.22.17 | Profit: Rs.3.61
+Buy: Rs.20.94
+Buy: Rs.21.24
+Sell: Rs.20.05 | Profit: -Rs.0.89
+Sell: Rs.20.17 | Profit: -Rs.1.07
+--------------------------------
+Total Profit: -Rs.436.46
+--------------------------------
+2021-05-13 18:43:05.298725: W tensorflow/python/util/util.cc:348] Sets are not currently considered sequences, but this may change in the future, so consider avoiding using them.
+Episode 1/2
+Buy: Rs.33.49
+Buy: Rs.33.32
+Sell: Rs.35.25 | Profit: Rs.1.76
+Sell: Rs.35.60 | Profit: Rs.2.28
+Buy: Rs.37.75
+Buy: Rs.38.18
+Sell: Rs.38.69 | Profit: Rs.0.94
+Sell: Rs.38.46 | Profit: Rs.0.28
+Buy: Rs.42.09
+Buy: Rs.41.50
+Sell: Rs.42.18 | Profit: Rs.0.09
+Sell: Rs.42.07 | Profit: Rs.0.57
+Buy: Rs.33.17
+Buy: Rs.33.07
+Sell: Rs.32.41 | Profit: -Rs.0.76
+Sell: Rs.32.00 | Profit: -Rs.1.07
+Buy: Rs.38.42
+Buy: Rs.39.05
+Sell: Rs.40.01 | Profit: Rs.1.59
+Sell: Rs.40.12 | Profit: Rs.1.07
+Buy: Rs.36.62
+Buy: Rs.35.76
+Sell: Rs.35.74 | Profit: -Rs.0.88
+Sell: Rs.36.05 | Profit: Rs.0.29
+Buy: Rs.33.45
+Sell: Rs.34.18 | Profit: Rs.0.73
+Buy: Rs.33.51
+Buy: Rs.34.44
+Sell: Rs.34.89 | Profit: Rs.1.38
+Sell: Rs.35.55 | Profit: Rs.1.11
+Buy: Rs.29.86
+Sell: Rs.30.21 | Profit: Rs.0.35
+Buy: Rs.32.11
+Sell: Rs.32.79 | Profit: Rs.0.68
+Buy: Rs.31.13
+Buy: Rs.31.11
+Sell: Rs.30.60 | Profit: -Rs.0.53
+Sell: Rs.31.09 | Profit: -Rs.0.02
+Buy: Rs.31.56
+Buy: Rs.31.04
+Sell: Rs.31.37 | Profit: -Rs.0.19
+Sell: Rs.31.21 | Profit: Rs.0.17
+Buy: Rs.25.77
+Buy: Rs.25.72
+Sell: Rs.25.50 | Profit: -Rs.0.27
+Sell: Rs.24.90 | Profit: -Rs.0.82
+Buy: Rs.25.63
+Buy: Rs.25.70
+Buy: Rs.26.25
+Sell: Rs.27.62 | Profit: Rs.1.99
+Sell: Rs.27.34 | Profit: Rs.1.64
+Sell: Rs.27.24 | Profit: Rs.0.99
+Buy: Rs.21.26
+Buy: Rs.21.35
+Sell: Rs.22.16 | Profit: Rs.0.90
+Sell: Rs.22.33 | Profit: Rs.0.98
+Buy: Rs.19.39
+Buy: Rs.18.20
+Sell: Rs.19.04 | Profit: -Rs.0.35
+Sell: Rs.19.00 | Profit: Rs.0.80
+Buy: Rs.17.14
+Buy: Rs.16.54
+Sell: Rs.16.47 | Profit: -Rs.0.67
+Sell: Rs.16.17 | Profit: -Rs.0.37
+Buy: Rs.13.11
+Buy: Rs.12.12
+Sell: Rs.12.18 | Profit: -Rs.0.93
+Sell: Rs.12.26 | Profit: Rs.0.14
+Buy: Rs.11.71
+Buy: Rs.12.54
+Sell: Rs.12.96 | Profit: Rs.1.25
+Sell: Rs.13.19 | Profit: Rs.0.65
+Buy: Rs.13.71
+Buy: Rs.13.57
+Sell: Rs.13.30 | Profit: -Rs.0.41
+Sell: Rs.12.90 | Profit: -Rs.0.67
+Buy: Rs.14.50
+Sell: Rs.14.76 | Profit: Rs.0.26
+Buy: Rs.12.70
+Buy: Rs.12.68
+Sell: Rs.12.71 | Profit: Rs.0.01
+Sell: Rs.12.51 | Profit: -Rs.0.17
+Buy: Rs.11.68
+Sell: Rs.12.08 | Profit: Rs.0.40
+Buy: Rs.8.47
+Sell: Rs.7.61 | Profit: -Rs.0.86
+Buy: Rs.8.24
+Buy: Rs.8.06
+Sell: Rs.8.22 | Profit: -Rs.0.02
+Sell: Rs.7.84 | Profit: -Rs.0.22
+Buy: Rs.9.16
+Sell: Rs.8.68 | Profit: -Rs.0.48
+Buy: Rs.12.21
+Buy: Rs.11.95
+Sell: Rs.12.38 | Profit: Rs.0.17
+Sell: Rs.12.34 | Profit: Rs.0.39
+Buy: Rs.12.49
+Buy: Rs.12.32
+Sell: Rs.12.36 | Profit: -Rs.0.13
+Sell: Rs.12.32 | Profit: Rs.0.00
+Buy: Rs.12.01
+Buy: Rs.12.03
+Sell: Rs.11.83 | Profit: -Rs.0.18
+Sell: Rs.11.71 | Profit: -Rs.0.32
+Buy: Rs.10.06
+Sell: Rs.10.06 | Profit: Rs.0.00
+Buy: Rs.4.56
+Sell: Rs.4.34 | Profit: -Rs.0.22
+Buy: Rs.5.14
+Buy: Rs.4.69
+Buy: Rs.5.12
+Sell: Rs.4.70 | Profit: -Rs.0.44
+Sell: Rs.5.01 | Profit: Rs.0.32
+Sell: Rs.5.01 | Profit: -Rs.0.11
+Buy: Rs.4.87
+Sell: Rs.5.00 | Profit: Rs.0.13
+Buy: Rs.7.21
+Buy: Rs.6.55
+Sell: Rs.6.31 | Profit: -Rs.0.90
+Sell: Rs.6.19 | Profit: -Rs.0.36
+Buy: Rs.7.14
+Sell: Rs.7.00 | Profit: -Rs.0.14
+Buy: Rs.6.87
+Sell: Rs.6.79 | Profit: -Rs.0.08
+Buy: Rs.6.82
+Sell: Rs.7.45 | Profit: Rs.0.63
+Buy: Rs.7.82
+Sell: Rs.7.85 | Profit: Rs.0.03
+Buy: Rs.8.74
+Buy: Rs.8.43
+Sell: Rs.8.65 | Profit: -Rs.0.09
+Sell: Rs.8.98 | Profit: Rs.0.55
+Buy: Rs.10.49
+Buy: Rs.10.90
+Sell: Rs.11.63 | Profit: Rs.1.14
+Sell: Rs.11.58 | Profit: Rs.0.68
+Buy: Rs.11.65
+Sell: Rs.11.80 | Profit: Rs.0.15
+Buy: Rs.22.58
+Buy: Rs.22.21
+Sell: Rs.22.36 | Profit: -Rs.0.22
+Sell: Rs.21.87 | Profit: -Rs.0.34
+Buy: Rs.20.93
+Buy: Rs.20.84
+Sell: Rs.20.45 | Profit: -Rs.0.48
+Sell: Rs.20.94 | Profit: Rs.0.10
+Buy: Rs.20.39
+--------------------------------
+Total Profit: Rs.13.89
+--------------------------------
+Episode 2/2
+Buy: Rs.37.18
+Sell: Rs.37.93 | Profit: Rs.0.75
+Buy: Rs.41.27
+Buy: Rs.40.76
+Sell: Rs.41.06 | Profit: -Rs.0.21
+Sell: Rs.41.32 | Profit: Rs.0.56
+Buy: Rs.33.33
+Buy: Rs.34.38
+Sell: Rs.33.98 | Profit: Rs.0.65
+Sell: Rs.35.04 | Profit: Rs.0.66
+Buy: Rs.39.58
+Buy: Rs.39.19
+Sell: Rs.38.86 | Profit: -Rs.0.72
+Sell: Rs.38.77 | Profit: -Rs.0.42
+Buy: Rs.35.55
+Buy: Rs.35.71
+Sell: Rs.35.74 | Profit: Rs.0.19
+Sell: Rs.36.18 | Profit: Rs.0.47
+Buy: Rs.34.18
+Buy: Rs.34.21
+Sell: Rs.33.88 | Profit: -Rs.0.30
+Sell: Rs.34.45 | Profit: Rs.0.24
+Buy: Rs.34.44
+Buy: Rs.34.89
+Buy: Rs.35.55
+Sell: Rs.35.36 | Profit: Rs.0.92
+Sell: Rs.35.36 | Profit: Rs.0.47
+Sell: Rs.35.19 | Profit: -Rs.0.36
+Buy: Rs.29.86
+Sell: Rs.30.21 | Profit: Rs.0.35
+Buy: Rs.30.68
+Sell: Rs.30.53 | Profit: -Rs.0.15
+Buy: Rs.32.32
+Buy: Rs.31.99
+Sell: Rs.31.62 | Profit: -Rs.0.70
+Sell: Rs.31.41 | Profit: -Rs.0.58
+Buy: Rs.32.63
+Sell: Rs.32.32 | Profit: -Rs.0.31
+Buy: Rs.28.16
+Sell: Rs.29.26 | Profit: Rs.1.10
+Buy: Rs.25.63
+Sell: Rs.25.42 | Profit: -Rs.0.21
+Buy: Rs.23.76
+Buy: Rs.22.69
+Sell: Rs.22.32 | Profit: -Rs.1.44
+Sell: Rs.22.03 | Profit: -Rs.0.66
+Buy: Rs.22.39
+Buy: Rs.21.31
+Buy: Rs.21.09
+Sell: Rs.21.42 | Profit: -Rs.0.97
+Sell: Rs.21.26 | Profit: -Rs.0.05
+Sell: Rs.21.35 | Profit: Rs.0.26
+Buy: Rs.19.21
+Sell: Rs.18.50 | Profit: -Rs.0.71
+Buy: Rs.18.85
+Buy: Rs.18.27
+Sell: Rs.18.49 | Profit: -Rs.0.36
+Sell: Rs.18.43 | Profit: Rs.0.16
+Buy: Rs.18.05
+Sell: Rs.18.30 | Profit: Rs.0.25
+Buy: Rs.11.61
+Buy: Rs.11.87
+Sell: Rs.11.39 | Profit: -Rs.0.22
+Buy: Rs.12.09
+Buy: Rs.12.65
+Sell: Rs.12.76 | Profit: Rs.0.89
+Sell: Rs.12.93 | Profit: Rs.0.84
+Sell: Rs.13.01 | Profit: Rs.0.36
+Buy: Rs.12.31
+Buy: Rs.12.18
+Sell: Rs.12.06 | Profit: -Rs.0.25
+Sell: Rs.11.71 | Profit: -Rs.0.47
+Buy: Rs.11.57
+Buy: Rs.11.77
+Buy: Rs.11.80
+Sell: Rs.12.39 | Profit: Rs.0.82
+Sell: Rs.12.41 | Profit: Rs.0.64
+Sell: Rs.12.85 | Profit: Rs.1.05
+Buy: Rs.16.41
+Buy: Rs.16.34
+Sell: Rs.16.74 | Profit: Rs.0.33
+Sell: Rs.16.48 | Profit: Rs.0.14
+Buy: Rs.12.28
+Buy: Rs.12.29
+Buy: Rs.11.95
+Sell: Rs.11.59 | Profit: -Rs.0.69
+Sell: Rs.11.37 | Profit: -Rs.0.92
+Sell: Rs.11.70 | Profit: -Rs.0.25
+Buy: Rs.9.71
+Buy: Rs.9.24
+Sell: Rs.8.69 | Profit: -Rs.1.02
+Sell: Rs.8.55 | Profit: -Rs.0.69
+Buy: Rs.8.43
+Sell: Rs.8.24 | Profit: -Rs.0.19
+Buy: Rs.8.90
+Sell: Rs.8.94 | Profit: Rs.0.04
+Buy: Rs.12.12
+Sell: Rs.11.86 | Profit: -Rs.0.26
+Buy: Rs.11.52
+Sell: Rs.11.38 | Profit: -Rs.0.14
+Buy: Rs.11.17
+Buy: Rs.11.54
+Buy: Rs.11.29
+Sell: Rs.11.57 | Profit: Rs.0.40
+Sell: Rs.11.22 | Profit: -Rs.0.32
+Buy: Rs.10.94
+Sell: Rs.11.85 | Profit: Rs.0.56
+Sell: Rs.11.58 | Profit: Rs.0.64
+Buy: Rs.12.69
+Buy: Rs.12.54
+Buy: Rs.13.11
+Sell: Rs.13.09 | Profit: Rs.0.40
+Sell: Rs.12.13 | Profit: -Rs.0.41
+Sell: Rs.11.68 | Profit: -Rs.1.43
+Buy: Rs.5.31
+Buy: Rs.4.91
+Buy: Rs.4.78
+Sell: Rs.4.72 | Profit: -Rs.0.59
+Sell: Rs.4.33 | Profit: -Rs.0.58
+Sell: Rs.4.71 | Profit: -Rs.0.07
+Buy: Rs.5.47
+Buy: Rs.5.39
+Sell: Rs.5.55 | Profit: Rs.0.08
+Sell: Rs.5.85 | Profit: Rs.0.46
+Buy: Rs.6.60
+Buy: Rs.6.71
+Buy: Rs.6.87
+Sell: Rs.7.53 | Profit: Rs.0.93
+Sell: Rs.7.32 | Profit: Rs.0.61
+Sell: Rs.7.06 | Profit: Rs.0.19
+Buy: Rs.8.24
+Buy: Rs.8.67
+Sell: Rs.9.65 | Profit: Rs.1.41
+Sell: Rs.9.65 | Profit: Rs.0.98
+Buy: Rs.8.80
+Buy: Rs.8.61
+Sell: Rs.8.92 | Profit: Rs.0.12
+Sell: Rs.8.84 | Profit: Rs.0.23
+Buy: Rs.12.52
+Buy: Rs.12.45
+Sell: Rs.12.38 | Profit: -Rs.0.14
+Sell: Rs.11.99 | Profit: -Rs.0.46
+Buy: Rs.18.45
+Buy: Rs.17.82
+Sell: Rs.18.56 | Profit: Rs.0.11
+Sell: Rs.17.81 | Profit: -Rs.0.01
+Buy: Rs.23.35
+Sell: Rs.23.42 | Profit: Rs.0.07
+Buy: Rs.19.63
+Buy: Rs.19.70
+Buy: Rs.20.10
+Buy: Rs.19.66
+Sell: Rs.19.46 | Profit: -Rs.0.17
+Sell: Rs.19.71 | Profit: Rs.0.01
+Sell: Rs.20.39 | Profit: Rs.0.29
+--------------------------------
+Total Profit: Rs.2.20
+--------------------------------
